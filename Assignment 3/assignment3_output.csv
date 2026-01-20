@@ -1,0 +1,5 @@
+text,label,clean_text,no_stopwords,lemmatized_text,encoded_label,ai,amazing,content,generated,harmful,learning,love,nlp,python,task,used
+NLP is amazing!!!,positive,nlp is amazing,nlp amazing,nlp amazing,1,0.0,0.8429263481500496,0.0,0.0,0.0,0.0,0.0,0.5380289691033573,0.0,0.0,0.0
+I love learning AI and NLP,positive,i love learning ai and nlp,love learning ai nlp,love learning ai nlp,1,0.4530050977381881,0.0,0.0,0.0,0.0,0.5745795256791941,0.5745795256791941,0.3667466683744504,0.0,0.0,0.0
+Python is used for NLP tasks,neutral,python is used for nlp tasks,python used nlp tasks,python used nlp task,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3457831381910465,0.5417361046803605,0.5417361046803605,0.5417361046803605
+AI generated content is harmful,neutral,ai generated content is harmful,ai generated content harmful,ai generated content harmful,0,0.41428875116588965,0.0,0.5254727492640658,0.5254727492640658,0.5254727492640658,0.0,0.0,0.0,0.0,0.0,0.0
